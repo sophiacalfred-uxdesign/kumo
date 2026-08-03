@@ -1,0 +1,21 @@
+packages/kumo/src/components/sidebar/sidebar.test.tsx
+  s_58870614a2fd56::t_7e1f0bc1768973 273,291-294,355-356,359,361-369,371-383,431-867,1122-1152
+packages/kumo/src/components/sidebar/sidebar.tsx
+  s_58870614a2fd56::t_b2ba36861072c0 1,12,21,100-101,152,217-225,275,374,1032-1033,1166-1170,1219,1321-1329,1332,1922-1923,1934,1939-1970,1987-2028,2083-2084,2090-2096,2117-2131,2140-2224,2232,2241-2242,2255-2267,2300-2304,2318,2320-2325,2327-2329,2331-2342,2344-2370,2372,2405-2410,2417-2428,2435-2446,2794-2797,2802-2803,2806-2808,2811-2812,2815-2816,2818-2819
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0a9ce4560bf95cb08677b6676d86ae8fa976ab2e",
+  "prompts": {},
+  "sessions": {
+    "s_58870614a2fd56": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_047ff2e0bffeVxq1Zep2tgqj2u",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Nuno Pereira <npereira@cloudflare.com>"
+    }
+  }
+}
