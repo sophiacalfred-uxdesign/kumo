@@ -1,0 +1,31 @@
+packages/kumo/src/components/sidebar/sidebar.test.tsx
+  s_58870614a2fd56::t_7e1f0bc1768973 559-562,623-624,627,629-637,640-646,648-651,699-1135,1565,1585-1614
+  s_f3e0dc5f179b52::t_66631104996295 639,647
+packages/kumo/src/components/sidebar/sidebar.tsx
+  s_58870614a2fd56::t_b2ba36861072c0 1,12,22,102-103,216,329-337,388,578,1288-1289,1441-1445,1497,1624-1632,1635,2228-2229,2246,2252-2283,2300-2341,2405-2406,2412-2418,2439-2453,2468-2552,2560,2570-2571,2585-2597,2630-2634,2648,2650-2655,2657-2659,2661-2672,2674-2695,2697-2700,2702,2735-2740,2747-2758,2765-2776,3141-3144,3149-3150,3153-3155,3158-3159,3162-3163,3165-3166
+  s_f3e0dc5f179b52::t_179812c7836dbf 2696
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fed7955dd27d69b61bdb0f995568d7970e98cc65",
+  "prompts": {},
+  "sessions": {
+    "s_58870614a2fd56": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_047ff2e0bffeVxq1Zep2tgqj2u",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Nuno Pereira <npereira@cloudflare.com>"
+    },
+    "s_f3e0dc5f179b52": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e8243f1d5ffevnOZh0LuZtUJVh",
+        "model": "unknown"
+      },
+      "human_author": "Nuno Pereira <npereira@cloudflare.com>"
+    }
+  }
+}
