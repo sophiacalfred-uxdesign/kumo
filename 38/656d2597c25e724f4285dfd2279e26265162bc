@@ -1,0 +1,21 @@
+packages/kumo/src/components/sidebar/sidebar.test.tsx
+  s_f3e0dc5f179b52::t_66631104996295 639,647
+packages/kumo/src/components/sidebar/sidebar.tsx
+  s_f3e0dc5f179b52::t_179812c7836dbf 2696
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "38656d2597c25e724f4285dfd2279e26265162bc",
+  "prompts": {},
+  "sessions": {
+    "s_f3e0dc5f179b52": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e8243f1d5ffevnOZh0LuZtUJVh",
+        "model": "unknown"
+      },
+      "human_author": "Nuno Pereira <npereira@cloudflare.com>"
+    }
+  }
+}
