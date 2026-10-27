@@ -1,0 +1,23 @@
+packages/kumo-docs-astro/src/pages/components/sidebar.astro
+  s_2a62511ac67ff0::t_fa9a03c65035ea 331-332
+packages/kumo/src/components/sidebar/sidebar.test.tsx
+  s_2a62511ac67ff0::t_3af2c8bedce1a1 808-810,834
+packages/kumo/src/components/sidebar/sidebar.tsx
+  s_2a62511ac67ff0::t_8565efb3ea0e77 2276-2277,2279-2282,2284,2510-2511
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7564bc1944ce1bb5f4289c348f03aaab144e947e",
+  "prompts": {},
+  "sessions": {
+    "s_2a62511ac67ff0": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e974eff44ffe4vp7h6H6lQrad2",
+        "model": "unknown"
+      },
+      "human_author": "Nuno Pereira <npereira@cloudflare.com>"
+    }
+  }
+}
